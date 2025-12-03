@@ -1,5 +1,5 @@
 -- 데이터 베이스 생성
--- CREATE DATABASE oz_db_test;
+CREATE DATABASE oz_db_test;
 -- 데이터 베이스 사용
 USE oz_db_test;
 
