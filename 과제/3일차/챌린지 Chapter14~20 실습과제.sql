@@ -1,3 +1,4 @@
+-- oz_db_test 데이터베이스를 사용
 use oz_db_test;
 
 -- employees 테이블을 생성
